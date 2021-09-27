@@ -1,0 +1,16 @@
+{
+  "name": "Homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^2.2.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-tailwindcss": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
